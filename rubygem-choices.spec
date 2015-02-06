@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.2.0
-Release:    %mkrel 1
+Release:    2
 Summary:    Easy settings for your app
 Group:      Development/Ruby
 License:    MIT
