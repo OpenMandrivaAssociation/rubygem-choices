@@ -6,7 +6,7 @@ Release:    2
 Summary:    Easy settings for your app
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/mislav/choices
+URL:        https://github.com/mislav/choices
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
